@@ -1,0 +1,3 @@
+display_name: CloudBase Test Deploy
+short_description: Deploy a small Node/HTML prototype to Tencent CloudBase and verify the test URL.
+default_prompt: Deploy this project to Tencent CloudBase as a test website using the generic CloudBase CLI workflow, then verify page assets and secret protection.
